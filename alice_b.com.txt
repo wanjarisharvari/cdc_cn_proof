@@ -1,0 +1,21 @@
+
+Email-ID: 1
+From: bob@b.com
+Date: 21-03-2025
+HI ALICE I AM BOB.
+
+---END OF MESSAGE---
+
+Email-ID: 2
+From: bob@a.com
+Date: 21-03-2025
+HI alice I am good.
+
+---END OF MESSAGE---
+
+Email-ID: 3
+From: me@example.com
+Date: 21-03-2025
+Hi alice its me.
+
+---END OF MESSAGE---
